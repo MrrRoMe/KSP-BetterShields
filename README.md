@@ -8,3 +8,4 @@ Open the BetterShields folder, drag and drop the GameData folder into your KSP r
 
 ------ NOTES ------
 This mod redistributes the Kerbal Krash System mod and modifies its contents (KerbalKrashSystem.dll).
+REQUIRES Module Manager to work!! Please download separately. 
